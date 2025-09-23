@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rui Sun
 - ✨ PhD Economics, Graduate Center, City University of New York
 - 👀 I’m interested in Financial Economics
-- 🌱 I’m currently teaching at Queens College, and Baruch College
-- 💞️ I’m looking forward to working with you
+- 🌱 I’m currently teaching at Columbia Univeristy, Baruch College
+- 💯 I’m looking forward to working with you
 - 📫 How to reach me: sunruiucas@gmail.com
 
 <!---
