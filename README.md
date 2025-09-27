@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rui Sun
 - ✨ PhD Economics, Graduate Center, City University of New York
-- 👀 I’m interested in Financial Economics, Empirical Microeconomics, Machine Learning
 - 🌱 I’m currently at Columbia Univeristy, Baruch College
 - 📫 How to reach me: sunruiucas@gmail.com
 
